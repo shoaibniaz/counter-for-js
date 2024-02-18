@@ -1,0 +1,35 @@
+body {
+    background-color: #fcfc62;
+
+}
+
+.container {
+    border: 1px solid black;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    background-color: white;
+    color: #7c7c41;
+    font-family: sans-serif;
+    margin: 40px;
+    padding-top: 100px;
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+}
+
+#count {
+    font-size: 40px;
+    color: black;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    /* border: rgb(19, 19, 17); */
+    background-color: #fcfc62;
+    border-radius: 2px 2px 5px 5px solid green;
+    font-size: large;
+
+
+}
